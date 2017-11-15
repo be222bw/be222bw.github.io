@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Robots"
+date:   2017-11-14 22:23:01 +0000
+categories: robots
+---
+Robots.txt är en standard för att kommunicera med sökrobotar, d.v.s. datorprogram som samlar på sig information på webbsidor. Man kan i denna
+enkla textfil skriva vilka användaragenter som skall få indexera vilka sidor.
+
+Man bör vara uppmärksam på att robots.txt, i egenskap av enkel textfil, inte döljer resurser på något sätt, och sökrobotar tar inte
+nödvändigtvis hänsyn till dess regler. Tvärtom kan man, genom att ange resurser som skall vara dolda, röja deras sökvägar, och på så vis
+motverka sitt eget syfte.
+
+Därför bör man snarast använda robots.txt endast för att optimera hur webbplatsen indexeras av sökmotorer, medan man bör undvika att ange
+resurser som man vill hålla hemliga.
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
