@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Humans"
+date:   2017-11-16 15:26:01 +0000
+categories: humans
+---
+Humans.txt är ett slags motreaktion på den maskinorienterade filen robots.txt, även om syftet med filen är något annat. Humans.txt innehåller
+en presentation av utvecklarna, i motsats alltså till ägarna, av en webbplats. Man kan jämföra det med en lista över medverkande i slutet av en
+film.
+
+Standarden fyller ingen stor praktisk funktion, och det finns alternativ till den, såsom metataggen i ett html-dokument. Man kan nästan sluta sig
+till att bakgrunden till projektet är ett skämt. Dock verkar skaparna vara seriösa, om än med glimten i ögat.
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
