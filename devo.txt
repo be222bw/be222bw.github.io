@@ -1,0 +1,8 @@
+Species: man
+disallow: _site/our_plans_to_overthrow_the_human_race/2017/11/16
+
+Uer-agent: *
+disallow: _site/our_plans_to_overthrow_the_human_race/2017/11/16
+
+@species: devo
+allow: /
