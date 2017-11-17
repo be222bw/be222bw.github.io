@@ -1,10 +1,13 @@
 body {
   background-color: #773f1a;
-  color: #FFBF00; }
+  color: #AAA; }
 
-.site-title {
+.post-link:link, .site-title:link, a:link, .rss-subscribe a:link, .page-link:link {
   color: #FFBF00; }
-  .site-title:visited {
-    color: #FFBF00; }
+.post-link:visited, .site-title:visited, a:visited, .rss-subscribe a:visited, .page-link:visited {
+  color: #FFBF00; }
+.post-link:hover, .site-title:hover, a:hover, .rss-subscribe a:hover, .page-link:hover {
+  background-color: #868686;
+  text-decoration: none; }
 
 /*# sourceMappingURL=_colours.css.map */

@@ -2,12 +2,19 @@
 
 body {
     background-color: $cigar;
-    color: $amber;
+    color: $grey;
 }
 
-.site-title {
-    color: $amber;
+
+.post-link, .site-title, a, .rss-subscribe a, .page-link {
+    &:link {
+      color: $amber;  
+    }
     &:visited {
-        color:$amber;
+        color: $amber;
+    }
+    &:hover {
+        background-color: $darkGrey;
+        text-decoration: none;
     }
 }
