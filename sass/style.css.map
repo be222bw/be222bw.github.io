@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAEA,IAAK;EACD,gBAAgB,ECHX,OAAO",
-"sources": ["_partials/_colours.scss","_partials/_variables.scss"],
-"names": [],
-"file": "style.css"
-}

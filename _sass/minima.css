@@ -1,20 +1,20 @@
 /*
 Error: File to import not found or unreadable: minima/base.
-        on line 46 of /home/ubuntu/workspace/src/sass/minima.scss
+        on line 49 of /home/ubuntu/workspace/src/sass/minima.scss
 
-41:   font-size: $base-font-size * $ratio;
-42: }
-43: 
-44: // Import partials.
-45: @import
-46:   "minima/base",
-47:   "minima/layout",
-48:   "minima/syntax-highlighting"
-49: ;
-50: @import '_partials/colours';
+44:   font-size: $base-font-size * $ratio;
+45: }
+46: 
+47: // Import partials.
+48: @import
+49:   "minima/base",
+50:   "minima/layout",
+51:   "minima/syntax-highlighting"
+52: ;
+53: @import '_partials/colours';
 
 Backtrace:
-/home/ubuntu/workspace/src/sass/minima.scss:46
+/home/ubuntu/workspace/src/sass/minima.scss:49
 /usr/local/rvm/gems/ruby-2.3.4/gems/sass-3.5.3/lib/sass/tree/import_node.rb:67:in `rescue in import'
 /usr/local/rvm/gems/ruby-2.3.4/gems/sass-3.5.3/lib/sass/tree/import_node.rb:45:in `import'
 /usr/local/rvm/gems/ruby-2.3.4/gems/sass-3.5.3/lib/sass/tree/import_node.rb:28:in `imported_file'
@@ -59,4 +59,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: File to import not found or unreadable: minima/base.\A         on line 46 of /home/ubuntu/workspace/src/sass/minima.scss\A \A 41:   font-size: $base-font-size * $ratio;\A 42: }\A 43: \A 44: // Import partials.\A 45: @import\A 46:   \"minima/base\",\A 47:   \"minima/layout\",\A 48:   \"minima/syntax-highlighting\"\A 49: ;\A 50: @import '_partials/colours';"; }
+  content: "Error: File to import not found or unreadable: minima/base.\A         on line 49 of /home/ubuntu/workspace/src/sass/minima.scss\A \A 44:   font-size: $base-font-size * $ratio;\A 45: }\A 46: \A 47: // Import partials.\A 48: @import\A 49:   \"minima/base\",\A 50:   \"minima/layout\",\A 51:   \"minima/syntax-highlighting\"\A 52: ;\A 53: @import '_partials/colours';"; }
