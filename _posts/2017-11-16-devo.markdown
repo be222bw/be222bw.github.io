@@ -4,6 +4,8 @@ title:  "Devo"
 date:   2017-11-16 18:38:00 +0000
 categories: devo antihuman
 ---
+![Den devolverade Björn Elmqvist](/images/medevo.jpg "Den devolverade Björn Elmqvist")
+
 Som svar på robots.txt och humans.txt har jag, i samarbete med det svensk-kinesiska företaget Internective Solutions, skapat en ny standard, vilken redan har slagit stort på webbutvecklarmarknaden. Devo.txt är en standard för
 att kommunicera med både sökmänniskor och -robotar, och den blockerar fullkomligt deras tillgång till de resurser skribenten väljer att blockera.
 
