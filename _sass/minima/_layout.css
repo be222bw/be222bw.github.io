@@ -1,26 +1,38 @@
 /*
-Error: File to import not found or unreadable: minima/base.
-        on line 46 of /home/ubuntu/workspace/src/_sass/minima.scss
+Error: Undefined variable: "$grey-color-dark".
+        on line 5 of /home/ubuntu/workspace/src/_sass/minima/_layout.scss
 
-41:   font-size: $base-font-size * $ratio;
-42: }
-43: 
-44: // Import partials.
-45: @import
-46:   "minima/base",
-47:   "minima/layout",
-48:   "minima/syntax-highlighting"
-49: ;
-50: // Import my partials
-51: @import '_partials/_colours';
+1: /**
+2:  * Site header
+3:  *\/
+4: .site-header {
+5:   border-top: 5px solid $grey-color-dark;
+6:   border-bottom: 1px solid $grey-color-light;
+7:   min-height: $spacing-unit * 1.865;
+8: 
+9:   // Positioning context for the mobile navigation icon
+10:   position: relative;
 
 Backtrace:
-/home/ubuntu/workspace/src/_sass/minima.scss:46
-/usr/local/rvm/gems/ruby-2.3.4/gems/sass-3.5.3/lib/sass/tree/import_node.rb:67:in `rescue in import'
-/usr/local/rvm/gems/ruby-2.3.4/gems/sass-3.5.3/lib/sass/tree/import_node.rb:45:in `import'
-/usr/local/rvm/gems/ruby-2.3.4/gems/sass-3.5.3/lib/sass/tree/import_node.rb:28:in `imported_file'
-/usr/local/rvm/gems/ruby-2.3.4/gems/sass-3.5.3/lib/sass/tree/import_node.rb:37:in `css_import?'
-/usr/local/rvm/gems/ruby-2.3.4/gems/sass-3.5.3/lib/sass/tree/visitors/perform.rb:314:in `visit_import'
+/home/ubuntu/workspace/src/_sass/minima/_layout.scss:5
+/usr/local/rvm/gems/ruby-2.3.4/gems/sass-3.5.3/lib/sass/script/tree/variable.rb:49:in `_perform'
+/usr/local/rvm/gems/ruby-2.3.4/gems/sass-3.5.3/lib/sass/script/tree/node.rb:50:in `perform'
+/usr/local/rvm/gems/ruby-2.3.4/gems/sass-3.5.3/lib/sass/script/tree/list_literal.rb:75:in `block in _perform'
+/usr/local/rvm/gems/ruby-2.3.4/gems/sass-3.5.3/lib/sass/script/tree/list_literal.rb:75:in `map'
+/usr/local/rvm/gems/ruby-2.3.4/gems/sass-3.5.3/lib/sass/script/tree/list_literal.rb:75:in `_perform'
+/usr/local/rvm/gems/ruby-2.3.4/gems/sass-3.5.3/lib/sass/script/tree/node.rb:50:in `perform'
+/usr/local/rvm/gems/ruby-2.3.4/gems/sass-3.5.3/lib/sass/tree/visitors/perform.rb:402:in `visit_prop'
+/usr/local/rvm/gems/ruby-2.3.4/gems/sass-3.5.3/lib/sass/tree/visitors/base.rb:36:in `visit'
+/usr/local/rvm/gems/ruby-2.3.4/gems/sass-3.5.3/lib/sass/tree/visitors/perform.rb:162:in `block in visit'
+/usr/local/rvm/gems/ruby-2.3.4/gems/sass-3.5.3/lib/sass/stack.rb:79:in `block in with_base'
+/usr/local/rvm/gems/ruby-2.3.4/gems/sass-3.5.3/lib/sass/stack.rb:135:in `with_frame'
+/usr/local/rvm/gems/ruby-2.3.4/gems/sass-3.5.3/lib/sass/stack.rb:79:in `with_base'
+/usr/local/rvm/gems/ruby-2.3.4/gems/sass-3.5.3/lib/sass/tree/visitors/perform.rb:162:in `visit'
+/usr/local/rvm/gems/ruby-2.3.4/gems/sass-3.5.3/lib/sass/tree/visitors/perform.rb:444:in `block (2 levels) in visit_rule'
+/usr/local/rvm/gems/ruby-2.3.4/gems/sass-3.5.3/lib/sass/tree/visitors/perform.rb:444:in `map'
+/usr/local/rvm/gems/ruby-2.3.4/gems/sass-3.5.3/lib/sass/tree/visitors/perform.rb:444:in `block in visit_rule'
+/usr/local/rvm/gems/ruby-2.3.4/gems/sass-3.5.3/lib/sass/tree/visitors/perform.rb:183:in `with_environment'
+/usr/local/rvm/gems/ruby-2.3.4/gems/sass-3.5.3/lib/sass/tree/visitors/perform.rb:442:in `visit_rule'
 /usr/local/rvm/gems/ruby-2.3.4/gems/sass-3.5.3/lib/sass/tree/visitors/base.rb:36:in `visit'
 /usr/local/rvm/gems/ruby-2.3.4/gems/sass-3.5.3/lib/sass/tree/visitors/perform.rb:162:in `block in visit'
 /usr/local/rvm/gems/ruby-2.3.4/gems/sass-3.5.3/lib/sass/stack.rb:79:in `block in with_base'
@@ -60,4 +72,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: File to import not found or unreadable: minima/base.\A         on line 46 of /home/ubuntu/workspace/src/_sass/minima.scss\A \A 41:   font-size: $base-font-size * $ratio;\A 42: }\A 43: \A 44: // Import partials.\A 45: @import\A 46:   \"minima/base\",\A 47:   \"minima/layout\",\A 48:   \"minima/syntax-highlighting\"\A 49: ;\A 50: // Import my partials\A 51: @import '_partials/_colours';"; }
+  content: "Error: Undefined variable: \"$grey-color-dark\".\A         on line 5 of /home/ubuntu/workspace/src/_sass/minima/_layout.scss\A \A 1: /**\A 2:  * Site header\A 3:  */\A 4: .site-header {\A 5:   border-top: 5px solid $grey-color-dark;\A 6:   border-bottom: 1px solid $grey-color-light;\A 7:   min-height: $spacing-unit * 1.865;\A 8: \A 9:   // Positioning context for the mobile navigation icon\A 10:   position: relative;"; }

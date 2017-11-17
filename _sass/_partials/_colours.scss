@@ -4,3 +4,10 @@ body {
     background-color: $cigar;
     color: $amber;
 }
+
+.site-title {
+    color: $amber;
+    &:visited {
+        color:$amber;
+    }
+}
