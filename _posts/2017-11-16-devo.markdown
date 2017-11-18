@@ -3,6 +3,7 @@ layout: post
 title:  "Devo"
 date:   2017-11-16 18:38:00 +0000
 categories: devo antihuman
+comments: true
 ---
 ![Den devolverade Björn Elmqvist](/images/medevo.jpg "Den devolverade Björn Elmqvist")
 
