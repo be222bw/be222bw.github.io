@@ -3,6 +3,7 @@ layout: post
 title:  "Förkompilerad CSS"
 date:   2017-11-18 15:08:01 +0000
 categories: precompilation css
+comments: true
 ---
 
 Att förkompilera css har definitivt sina fördelar, även om det kan ta sin

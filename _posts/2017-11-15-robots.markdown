@@ -3,6 +3,7 @@ layout: post
 title:  "Robots"
 date:   2017-11-15 22:23:01 +0000
 categories: robots
+comments: true
 ---
 Robots.txt är en standard för att kommunicera med sökrobotar, d.v.s. datorprogram som samlar på sig information på webbsidor. Man kan i denna
 enkla textfil skriva vilka användaragenter som skall få indexera vilka sidor.

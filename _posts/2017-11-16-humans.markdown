@@ -3,6 +3,7 @@ layout: post
 title:  "Humans"
 date:   2017-11-16 15:26:01 +0000
 categories: humans
+comments: true
 ---
 Humans.txt är ett slags motreaktion på den maskinorienterade filen robots.txt, även om syftet med filen är något annat. Humans.txt innehåller
 en presentation av utvecklarna, i motsats alltså till ägarna, av en webbplats. Man kan jämföra det med en lista över medverkande i slutet av en
