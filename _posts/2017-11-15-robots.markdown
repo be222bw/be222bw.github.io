@@ -15,6 +15,9 @@ motverka sitt eget syfte.
 Därför bör man snarast använda robots.txt endast för att optimera hur webbplatsen indexeras av sökmotorer, medan man bör undvika att ange
 resurser som man vill hålla hemliga.
 
+Min egen robots.txt förbjuder samtliga sökrobotar att indexera min sida,
+men det är förstås upp till dem att respektera det.
+
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Static Site Generators"
+title:  "Vad Open Graph är och hur man använder det"
 date:   2017-11-18 18:10:00 +0000
-categories: static site generators
+categories: open 
 comments: true
 ---
 
