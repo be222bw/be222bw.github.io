@@ -18,4 +18,4 @@ Just SSG skapar statiska webbplatser, vilket lämpar sig för webbplatser
 som inte behöver uppdateras särskilt ofta, t.ex. som denna blogg.
 
 SSG, till skillnad från enkel html är bra, eftersom man då inte behöver
-upprepa sin kod lika ofta.
+upprepa sin kod på samma sätt.
