@@ -15,7 +15,3 @@ för de angivna arterna och användaragenterna. Inte ens om man har tillgång ti
 
 Därför är det inte heller av ondo att ange resurser som skall vara dolda, eftersom snokande sökmänniskor och -robotar inte kan se de resurser som blockerats för dem. Jag kan inte betona det nog: **devo.txt gör de blockerade
 resurserna osynliga för sökarterna och -robotarna**. I nästa version av standarden talas det om att implementera nyckelordet 'persona-non-grata', för att även tillåta blockering av specifika personer i denna kraftfulla standard.
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/

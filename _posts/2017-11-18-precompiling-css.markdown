@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vad tycker du om att förkompilera css?"
+title:  "Vad jag tycker om att förkompilera css"
 date:   2017-11-18 15:08:01 +0000
 categories: precompilation css
 comments: true
