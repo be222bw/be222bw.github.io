@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Static Site Generators"
+title:  "Vad jag tycker om Static Site Generators"
 date:   2017-11-18 18:10:00 +0000
 categories: static site generators
 comments: true

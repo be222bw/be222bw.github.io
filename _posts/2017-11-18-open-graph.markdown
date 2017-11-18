@@ -2,7 +2,7 @@
 layout: post
 title:  "Vad Open Graph är och hur man använder det"
 date:   2017-11-18 18:10:00 +0000
-categories: open 
+categories: open graph
 comments: true
 ---
 

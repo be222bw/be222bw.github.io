@@ -2,7 +2,7 @@
 layout: post
 title:  "Vad devo.txt är hur jag har konfigurerat den för webbplatsen"
 date:   2017-11-16 18:38:00 +0000
-categories: devo antihuman
+categories: devo
 comments: true
 ---
 ![Den devolverade Björn Elmqvist](/images/medevo.jpg "Den devolverade Björn Elmqvist")
